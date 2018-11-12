@@ -5,4 +5,5 @@ def turn_count(board)
       number_turns += 1
     end
   end
+  number_turns
 end
